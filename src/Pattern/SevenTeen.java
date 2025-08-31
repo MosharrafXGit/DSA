@@ -4,8 +4,6 @@ public class SevenTeen {
 
 	static void print(int n)
     {
-        
-        int num=0;
         for(int i=0;i<n;i++)
         {
             //space
